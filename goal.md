@@ -9,3 +9,4 @@ Upon completion of this project the following goals will be achieved-
 - [ ] Strengthen my skill to develop forntend using React and Redux
 - [ ] Improve my skill of using Git and Github
 
+This project will be completed by @mirazahmed
